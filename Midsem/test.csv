@@ -1,0 +1,11 @@
+Id7,HomeOwner,Status,Income,Defaulted
+1,Yes,Employed,High,No
+2,No,Buisness,Average,No
+3,No,Employed,Low,No
+4,Yes,Buisness,High,No
+5,No,Unemployed,Average,Yes
+6,No,Buisness,Low,No
+7,Yes,Unemployed,High,No
+8,No,Employed,Average,Yes
+9,No,Buisness,Low,No
+10,No,Employed,Average,Yes
